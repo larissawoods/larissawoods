@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larissawoods
 - 👀 I’m interested in HR Analytics
-- 🌱 I’m currently learning R and RStudio
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me larissa.woods10@gmail.com
 - 😄 Pronouns: she/her
